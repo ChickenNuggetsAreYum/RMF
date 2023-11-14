@@ -7,7 +7,7 @@
 }
 "SecretBoosterCode": {
     "Active": true,
-    "RewardType": "GiftBux",
+    "RewardType": "Giftbux",
     "RewardValue": "100000"
 }
 
