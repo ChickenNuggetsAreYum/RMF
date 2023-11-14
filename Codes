@@ -1,0 +1,14 @@
+{
+
+"JoinedCommunications": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "100000"
+}
+"SecretBoosterCode": {
+    "Active": true,
+    "RewardType": "GiftBux",
+    "RewardValue": "100000"
+}
+
+}
