@@ -10,34 +10,14 @@
     "RewardType": "Robux",
     "RewardValue": "500000"
 },
-"AtlasBooth": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "AtlasBooth"
+"500kFakeBux": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "500000"
 },
-"UNO!": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "UnoCardBooth"
-},
-"PetSimulator": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "PetSimXBooth"
-},
-"YippeeBooth": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "Yippee"
-},
-"LindonFunnyBooth": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "LindonFunny"
-},
-"Make-A-Wish": {
-    "Active": false,
-    "RewardType": "Booth",
-    "RewardValue": "MakeWishBooth"
+"ExploringTheMap": {
+    "Active": true,
+    "RewardType": "Robux",
+    "RewardValue": "100000"
 }
 }
